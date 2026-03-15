@@ -5,7 +5,9 @@ Expected Graduation: May 2026
 
 I enjoy understanding how systems work behind the scenes and building software that combines thoughtful design with practical functionality.
 
-Along with my technical training, I bring strong people and leadership skills developed through my experience in HR and supervisory roles. This helps me communicate effectively, collaborate with teams, and approach problems from both a technical and human perspective.
+I'm currently seeking an entry-level role in software engineering where I can continue building strong development skills and contribute to real-world projects. My interests include backend development, software systems, and emerging technologies such as artificial intelligence and embedded systems.
+
+Along with my technical training, I bring strong people and leadership skills developed through my experience in HR and supervisory roles. This background helps me communicate effectively, collaborate with teams, and approach technical problems with both a logical and human perspective.
 
 ---
 
