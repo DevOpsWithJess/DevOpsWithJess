@@ -1,88 +1,119 @@
 # Hi, I'm Jessica 👋
 
-Computer Science student at Southern New Hampshire University  
-Expected Graduation: May 2026
+Computer Science graduate with a concentration in Software Engineering and a background in HR technology, enterprise systems, and software development.
 
-I enjoy understanding how systems work behind the scenes and building software that combines thoughtful design with practical functionality.
+I enjoy understanding how systems work behind the scenes and building solutions that improve business processes and the user experience. My interests include enterprise applications, HR technology, software development, application support, artificial intelligence, and embedded systems.
 
-I'm currently seeking an entry-level role in software engineering where I can continue building strong development skills and contribute to real-world projects. My interests include backend development, software systems, and emerging technologies such as artificial intelligence and embedded systems.
-
-Along with my technical training, I bring strong people and leadership skills developed through my experience in HR and supervisory roles. This background helps me communicate effectively, collaborate with teams, and approach technical problems with both a logical and human perspective.
+Along with my technical training, I bring years of leadership, recruiting, and operational experience. I enjoy bridging the gap between people and technology by solving problems, improving processes, and helping organizations make better use of their systems.
 
 ---
 
 # Featured Projects
 
-### Reinforcement Learning – Treasure Maze AI
+## 🤖 Reinforcement Learning – Treasure Maze AI
 Python project implementing a reinforcement learning agent that learns to navigate a maze using reward-based learning.
 
-Repository  
+**Repository:**  
 https://github.com/DevOpsWithJess/CS-370-Current-Emerging-Trends-in-CS-AI-
 
 ---
 
-### Mobile App – WeightTrack Lite
-Android mobile application built in Android Studio that tracks weight history, stores data using SQLite, and demonstrates mobile UI design.
+## 📱 Mobile App – WeightTrack Lite
+Android application built in Android Studio that tracks weight history, stores user data with SQLite, and demonstrates mobile application architecture and UI design.
 
-Repository  
+**Repository:**  
 https://github.com/DevOpsWithJess/CS-360-Mobile-Architecture-and-Programming
 
 ---
 
-### Embedded Systems – Raspberry Pi Smart Thermostat
-Raspberry Pi system using Python, sensors, LCD display, and a state machine control model to simulate a smart thermostat.
+## 🌡️ Embedded Systems – Raspberry Pi Smart Thermostat
+Python-based Raspberry Pi project using sensors, an LCD display, and a state machine to simulate a smart thermostat.
 
-Repository  
+**Repository:**  
 https://github.com/DevOpsWithJess/CS-350-Emerging-Systems-Architectures-and-Technology
 
 ---
 
-### Secure Coding and Vulnerability Analysis
-Security-focused project demonstrating hashing, vulnerability analysis, static code scanning, and secure development practices.
+## 🔒 Secure Coding & Vulnerability Analysis
+Projects demonstrating secure coding practices, vulnerability analysis, hashing, static code scanning, and defensive programming.
 
-Repository  
+**Repository:**  
 https://github.com/DevOpsWithJess/Secure-Coding-Practices
 
 ---
 
-### Software Testing and Automation
-Java project demonstrating unit testing, input validation, and automated testing practices using JUnit 5.
+## ✅ Software Testing & Automation
+Java project demonstrating automated testing, unit testing, assertions, and input validation using JUnit 5.
 
-Repository  
+**Repository:**  
 https://github.com/DevOpsWithJess/Software-Testing-and-Automation
 
 ---
 
-### 3D Graphics Scene – OpenGL
-C++ OpenGL project demonstrating camera movement, lighting models, texture mapping, and object transformations in a 3D environment.
+## 🎮 3D Graphics Scene – OpenGL
+C++ OpenGL project demonstrating lighting, textures, camera movement, and object transformations within a 3D environment.
 
-Repository  
+**Repository:**  
 https://github.com/DevOpsWithJess/3d-Graphics-Scene-Opengl
 
 ---
 
 # Technologies
 
-### Programming Languages
-Python | C++ | Java | SQL | JavaScript
+## Programming Languages
+- Java
+- Python
+- C++
+- SQL
+- JavaScript
 
-### Frameworks & Tools
-JUnit | OpenGL | Android Studio | GitHub | Visual Studio | Node.js | MongoDB | Raspberry Pi
+## Enterprise Systems & Tools
+- Workday
+- Epic
+- Git
+- GitHub
+- Postman
+- Android Studio
+- Visual Studio
+- Eclipse
 
-### Concepts
-Data Structures | Artificial Intelligence | Secure Coding | Embedded Systems | Software Testing | Software Development Lifecycle | System Design
+## Development & Testing
+- JUnit
+- Playwright
+- MongoDB
+- SQLite
+- OpenGL
+- Raspberry Pi
+
+## Areas of Interest
+- Enterprise Applications
+- HR Technology
+- Application Support
+- Software Testing
+- Artificial Intelligence
+- Embedded Systems
+- Software Development Lifecycle (SDLC)
 
 ---
 
 # Currently Learning
 
-Full Stack Web Development
+- Full Stack Web Development
+- Enterprise Applications
+- Business Systems Analysis
 
+---
 
+# Contact
 
-## Contact
+📍 Kansas City Area
 
-Kansas City Area
+📧 **Email:**  
+jesserg85@gmail.com
 
-Email  
-jesserq85@gmail.com
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/jessica-johnson-183316204/
+
+---
+
+> *"Combining people, technology, and problem-solving to build better systems."*
